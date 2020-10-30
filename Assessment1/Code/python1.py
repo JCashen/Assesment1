@@ -72,10 +72,10 @@ def one(input1, input2):
 	# Use your CLI to access the Python documentation and get help manipulating strings - help(str).
 
 def two(input): 
-	input.upper
-	start = input.find('BERT') + 3
-	end = input.find('BERT', start)
-	return input[start:end]
+	#input.upper
+	#start = input.find('BERT') + 3
+	#end = input.find('BERT', start)
+	return ""
 
 
 
